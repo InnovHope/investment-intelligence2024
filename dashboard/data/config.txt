@@ -1,0 +1,9 @@
+
+[crunchbase]
+con = mysql+pymysql://cb_user:840123@192.168.1.175/crunchbase
+
+[crunchbase_sorted]
+con = mysql+pymysql://cb_user:840123@192.168.1.175/crunchbase_sorted
+
+[crunchbase_ml]
+con = mysql+pymysql://cb_user:840123@192.168.1.175/crunchbase_ml
