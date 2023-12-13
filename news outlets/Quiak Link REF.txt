@@ -1,0 +1,5 @@
+github.com/SeleniumHQ/docker-selenium/tree/selenium-3
+https://localhost:4444/wd/hub/
+
+conda activate newsoutlets
+conda deactivate
